@@ -1,6 +1,4 @@
-# mi_card
-
-Aplicativo de cartão de visita pessoal de tela única.
+# MI_Card
 
 <div align="center">
     <img src="https://1.bp.blogspot.com/-o2oNoqFUFa4/XwIOkDz8ujI/AAAAAAAASjU/qrUGL9AT8FUivB9Xd44Zf-2LzhGxftEZACK4BGAsYHg/s1600/mi_card.jpg" width="400px"</img> 
