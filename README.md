@@ -1,6 +1,6 @@
 # mi_card
 
-A new Flutter application.
+Aplicativo de cartão de visita pessoal de tela única.
 
 ## Getting Started
 
